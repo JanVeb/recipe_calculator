@@ -14,4 +14,4 @@ There is also a Recipe Directions field in the app, where you can enter directio
 In the app there is also a calculator included, in case you need to do some extra calculations, you can do it inside the app, no need to search for a calculator on your phone.
 
 https://github.com/JanVeb/recipe_calculator/blob/master/assets/test.png
-![alt text](https://github.com/JanVeb/recipe_calculator/blob/master/assets/test.png)
+![alt text](https://github.com/JanVeb/recipe_calculator/blob/master/assets/DeleteRecipe.jpg)
