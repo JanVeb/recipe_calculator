@@ -12,3 +12,5 @@ For example, every day on my work, I have to prepare cabbage filling for dough b
 There is also a Recipe Directions field in the app, where you can enter directions for a recipe, so this app can serve as Recipe keeping app as well, every Recipe you enter is locally saved on your phone, so that makes things easier, as you enter Recipe just once and there after you can use it whenever you need it.
 
 In the app there is also a calculator included, in case you need to do some extra calculations, you can do it inside the app, no need to search for a calculator on your phone.
+
+https://github.com/JanVeb/recipe_calculator/blob/master/assets/test.png
