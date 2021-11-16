@@ -1,5 +1,8 @@
 Made this app to help me in everyday cooking in cases where I want to recalculate ingredients of a recipe
 
+Check demo on:
+https://recipecalculator.netlify.app/#/
+
 But I presume the Recipe Calculator could be used for other purposes outside the kitchen as well, where ever recipes are involved, and one needs ability to recalculate the amount of recipe ingredients, this app might help you do just that.
 
 Using the app is rather simple, at the initial screen the user has the option to create a new Recipe by pressing on the + icon. 
