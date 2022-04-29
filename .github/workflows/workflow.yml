@@ -27,7 +27,7 @@ runs-on: ubuntu-latest
       working-directory: ./web
     - name: Deploy
       run: |
-        cd example/build/web
+        cd  web
         git init
         git config user.name  "CI"
         git config user.email "flutter-ci@github.com"
